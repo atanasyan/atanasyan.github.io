@@ -7,7 +7,7 @@ LinkedIn: [https://www.linkedin.com/in/atanasyan/](https://www.linkedin.com/in/a
 
 Location: St. Petersburg, Russia
 
-More than twenty years of experience in various fields of software
+More than twenty five years of experience in various fields of software
 engineering. The primary area of interest is compilers development.
 Both frontend and backend. Deep knowledge of C/C++ and C# languages.
 
@@ -16,9 +16,9 @@ Both frontend and backend. Deep knowledge of C/C++ and C# languages.
 
 ## Programming Languages
 
-- C++ - 20+ years of using as a primary working language. 9+ years of
+- C++ - 25+ years of using as a primary working language. 9+ years of
   working on a compilers and tools for the language.
-- C# - 10+ years of using as a language for GUI programming in Windows
+- C# - 15+ years of using as a language for GUI programming in Windows
   related projects.
 - C (used on and off the entire career)
 - Python, Bash, Awk, Perl, and other scripting languages (used for small tasks)
