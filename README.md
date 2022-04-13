@@ -59,6 +59,8 @@ frontend, LLVM backend, LLD linker, and some LLVM tools. A separate
 project was supporting MIPS architecture in the MCLinker. I was a
 "code owner" of the MIPS backend in the LLVM project for four years.
 
+[My commits to LLVM repository](https://github.com/llvm/llvm-project/commits?author=atanasyan)
+
 - In the Clang frontend I implemented some MIPS specific attributes
   and pragmas, improved support of MIPS toolchains in the Clang's driver.
 - In the MIPS LLVM backend I fixed numerous bugs, supported new
