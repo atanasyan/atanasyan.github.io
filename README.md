@@ -1,9 +1,9 @@
 # Simon Atanasyan
 
 >Phone: +7 931 378 1058  
-Email: simon@atanasyan.com  
-GitHub: https://github.com/atanasyan  
-LinkedIn: https://www.linkedin.com/in/atanasyan/
+Email: [simon@atanasyan.com](mailto:simon@atanasyan.com)  
+GitHub: [https://github.com/atanasyan](https://github.com/atanasyan)  
+LinkedIn: [https://www.linkedin.com/in/atanasyan/](https://www.linkedin.com/in/atanasyan/)
 
 Location: St. Petersburg, Russia
 
@@ -91,17 +91,17 @@ I was responsible for implementation of various software modules for a radio-mon
 # Certificates
 
 - Big Data Analysis with Scala and Spark by Ecole Polytechnique Federale
-  de Lausanne on Coursera. Certificate earned on April 9, 2017
-  https://www.coursera.org/account/accomplishments/records/7BUXTTM6WVC6
+  de Lausanne on Coursera.  
+  [Certificate earned on April 9, 2017](https://www.coursera.org/account/accomplishments/verify/34HT73RXSG9E)
 - Functional Programming Principles in Scala by Ecole Polytechnique Federale
-  de Lausanne on Coursera. Certificate earned on August 14, 2016
-  https://www.coursera.org/account/accomplishments/records/V8UM94TTBCXY
+  de Lausanne on Coursera.  
+  [Certificate earned on August 14, 2016](https://www.coursera.org/account/accomplishments/verify/LG8NCZ685X8B)
 - Functional Program Design in Scala by Ecole Polytechnique Federale
-  de Lausanne on Coursera. Certificate earned on September 10, 2016
-  https://www.coursera.org/account/accomplishments/records/L9HWTRTWBE6S
+  de Lausanne on Coursera.  
+  [Certificate earned on September 10, 2016](https://www.coursera.org/account/accomplishments/verify/BMFFW77RFTCH)
 - Parallel programming by Ecole Polytechnique Federale de Lausanne
-  on Coursera. Certificate earned on October 14, 2016
-  https://www.coursera.org/account/accomplishments/records/R9C5RQWFCQH6
+  on Coursera.  
+  [Certificate earned on October 14, 2016](https://www.coursera.org/account/accomplishments/verify/M6KFTMQRCQ52)
 
 ---
 # Education
