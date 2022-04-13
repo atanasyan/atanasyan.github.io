@@ -1,6 +1,6 @@
 # Simon Atanasyan
 
->Phone: +7 931 378 1058  
+>Phone: [+7 931 378 1058](tel:+79313781058)  
 Email: [simon@atanasyan.com](mailto:simon@atanasyan.com)  
 GitHub: [https://github.com/atanasyan](https://github.com/atanasyan)  
 LinkedIn: [https://www.linkedin.com/in/atanasyan/](https://www.linkedin.com/in/atanasyan/)
