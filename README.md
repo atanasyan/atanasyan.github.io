@@ -1,8 +1,8 @@
 # Simon Atanasyan
 
-Phone: +7 931 378 1058
-Email: simon@atanasyan.com
-GitHub: https://github.com/atanasyan
+>Phone: +7 931 378 1058  
+Email: simon@atanasyan.com  
+GitHub: https://github.com/atanasyan  
 LinkedIn: https://www.linkedin.com/in/atanasyan/
 
 Location: St. Petersburg, Russia
@@ -64,7 +64,7 @@ project was supporting MIPS architecture in the MCLinker. I was a
 - In the MIPS LLVM backend I fixed numerous bugs, supported new
   instructions, and implemented some optimizations.
 - In the LLD linker I worked on everything related to linking MIPS
-  architecture’s code. Now this linker is a default system linker on
+  architectureâ€™s code. Now this linker is a default system linker on
   FreeBSD systems.
 
 ## 2008-present VisualSVN Ltd.
